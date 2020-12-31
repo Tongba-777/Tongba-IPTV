@@ -7,129 +7,32 @@ https://np.nettvnepal.com.np/pulltest/hd-NtvNews-1500.stream/playlist.m3u8?check
 #EXTINF:-1,NTV-PLUS
 https://np.nettvnepal.com.np/pulltest/hd-NtvPlus-1500.stream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,NTV
-https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,UKL |  Sky News HD/FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24316
-#EXTINF:-1,UKL |  Sky Sports Main Event FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24224
-#EXTINF:-1,UKL |  Sky Sports Main Event SD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24225
-#EXTINF:-1,UKL |  Sky Sports Premiere League FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24226
-#EXTINF:-1,UKL |  Sky Sports Football FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24228
-#EXTINF:-1,UKL |  Sky Sports Arena FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24230
-#EXTINF:-1,UKL |  Sky Sports Action FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24231
-#EXTINF:-1,UKL |  Sky Sports Cricket FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24232
-#EXTINF:-1,UKL |  Sky Sports Golf FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24234
-#EXTINF:-1,UKL |  Sky Sports F1 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24236
-#EXTINF:-1,UKL |  Sky Sports Mix FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24240
-#EXTINF:-1,UKL |  BT Sport 1 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24243
-#EXTINF:-1,UKL |  BT Sport 2 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24245
-#EXTINF:-1,UKL |  BT Sport 3 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24248
-#EXTINF:-1,UKL |  BT Sport ESPN HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24251
-#EXTINF:-1,UKL |  Eurosport 1 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24252
-#EXTINF:-1,UKL |  Eurosport 2 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24253
-#EXTINF:-1,UKL |  Box Nation
-http://super1.ideaiptv.com:8090/Unplugged/66122/24254
-#EXTINF:-1,UKL |  MUTV HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24256
-#EXTINF:-1,UKL |  Chelsea TV HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24257
-#EXTINF:-1,UKL |  LFC TV HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24258
-#EXTINF:-1,UKL |  Premier Sports 1 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24259
-#EXTINF:-1,UKL |  Premier Sports 2 FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24260
-#EXTINF:-1,UKL |  Freesports FHD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24261
-#EXTINF:-1,UKL |  Box Nation HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24264
-#EXTINF:-1,UKA |  Star Plus UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24335
-#EXTINF:-1,UKA |  Star GOLD UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24336
-#EXTINF:-1,UKA |  Star Bharat UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24337
-#EXTINF:-1,UKA |  SONY TV Asia UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24338
-#EXTINF:-1,UKA |  SONY SAB UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24339
-#EXTINF:-1,UKA |  SONY MIX UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24340
-#EXTINF:-1,IN: SONY MAX UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24341
-#EXTINF:-1,UKA |  DUNYA NEWS
-http://super1.ideaiptv.com:8090/Unplugged/66122/24342
-#EXTINF:-1,IN: SAB TV UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24343
-#EXTINF:-1,IN: Rishtey UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24344
-#EXTINF:-1,IN: Rishtey Cine UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24345
-#EXTINF:-1,IN: PTC PUNJABI UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24346
-#EXTINF:-1,UKA |  ARY Family
-http://super1.ideaiptv.com:8090/Unplugged/66122/24347
-#EXTINF:-1,IN: COLORS UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24348
-#EXTINF:-1,IN: Brit Asia TV UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24349
-#EXTINF:-1,IN: B4U Movies UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24350
-#EXTINF:-1,PK] 92 NEWS UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24351
-#EXTINF:-1,UKA |  IQRA TV
-http://super1.ideaiptv.com:8090/Unplugged/66122/24352
-#EXTINF:-1,IN: ZEE TV  HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24353
-#EXTINF:-1,IN: ZEE CINEMA HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24354
-#EXTINF:-1,IN: & TV-HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24355
-#EXTINF:-1,IN: & Pictures-HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24356
-#EXTINF:-1,IN: STAR PLUS UK HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24357
-#EXTINF:-1,IN: Star GOLD UK HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24358
-#EXTINF:-1,IN: Star BHARAT HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24359
-#EXTINF:-1,IN: SONY TV UK HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24360
-#EXTINF:-1,IN: SONY SAB HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24361
-#EXTINF:-1,IN: Sony MAX UK HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24362
-#EXTINF:-1,IN: COLORS TV HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24363
-#EXTINF:-1,IN: STAR SPORT 2
-http://super1.ideaiptv.com:8090/Unplugged/66122/24364
-#EXTINF:-1,IN: STAR SPORT 1
-http://super1.ideaiptv.com:8090/Unplugged/66122/24365
-#EXTINF:-1,IN: SONY TEN 3 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24366
-#EXTINF:-1,IN: SONY TEN 2 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24367
-#EXTINF:-1,IN: SONY TEN 1 HD
-http://super1.ideaiptv.com:8090/Unplugged/66122/24368
-#EXTINF:-1,IN: Zing Music UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24369
-#EXTINF:-1,IN: Utv India
-http://super1.ideaiptv.com:8090/Unplugged/66122/24371
-#EXTINF:-1,IN: Sony Max 2 UK
-http://super1.ideaiptv.com:8090/Unplugged/66122/24372
-
+https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/playlist.m3u8?checkedby:hlscat.comD
+#EXTINF:-2,SPORTS |  BT Sport 1 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/999.ts?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BT Sport 2 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1001.ts?checkedby:hlscat.com#EXTINF:-1,UKL |  BT Sport 3 FHD
+#EXTINF:-2,SPORTS |  BT Sport 3 FHD
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1000.ts?checkedby:hlscat.com#EXTINF:-1,UKL |  Eurosport 1 HD
+#EXTINF:-2,SPORTS |  BT Sport ESPN FHD
+http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/909?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Main Event HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9418?checkedby:hlscat.com#EXTINF:-1,UKL |  Sky Sports Main Event SD
+#EXTINF:-2,SPORTS |  Sky Sports Premiere League
+http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/871?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Football HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9418?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Action HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9427?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Cricket HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9420?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Mix HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/163?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BOX NATION HD
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9455?checkedby:hlscat.com
+#EXTINF:-2,MOVIES |  SKY MOVIES ACTION
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/926.ts?checkedby:hlscat.com
+#EXTINF:-1,MOVIES |  SKY MOVIES DISNEY
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/924.ts?checkedby:hlscat.com
+#EXTINF:-1,MOVIES |  SKY MOVIES FAMILY
+http://portal.unblkservice1.xyz:8080/hollie/hollie/45317?checkedby:hlscat.com#EXTINF:-1,UKL |  Eurosport 2 HD
