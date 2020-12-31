@@ -1,5 +1,5 @@
 #EXTINF:-1,KANTIPURE
-https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8?checkedby:hlscat.com#EXTINF:-1,NPL
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8?checkedby:hlscat.com
 #EXTINF:-1,KOHALPUR
 https://np.nettvnepal.com.np/pulltest/hd-NTVKOHALPUR.stream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,NTV-NEWS
@@ -8,31 +8,29 @@ https://np.nettvnepal.com.np/pulltest/hd-NtvNews-1500.stream/playlist.m3u8?check
 https://np.nettvnepal.com.np/pulltest/hd-NtvPlus-1500.stream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1,NTV
 https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/playlist.m3u8?checkedby:hlscat.comD
-#EXTINF:-2,SPORTS |  BT Sport 1 FHD
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/999.ts?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  BT Sport 2 FHD
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1001.ts?checkedby:hlscat.com#EXTINF:-1,UKL |  BT Sport 3 FHD
-#EXTINF:-2,SPORTS |  BT Sport 3 FHD
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/1000.ts?checkedby:hlscat.com#EXTINF:-1,UKL |  Eurosport 1 HD
-#EXTINF:-2,SPORTS |  BT Sport ESPN FHD
-http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/909?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  Sky Sports Main Event HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9418?checkedby:hlscat.com#EXTINF:-1,UKL |  Sky Sports Main Event SD
+#EXTINF:-2,SPORTS |  BT Sport 1
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9434?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BT Sport 2 
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9436?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BT Sport 3
+http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9437?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BT Sport ESPN
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/996.ts?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Main Event 
+http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/874?checkedby:hlscat.com
 #EXTINF:-2,SPORTS |  Sky Sports Premiere League
 http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/871?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  Sky Sports Football HD
+#EXTINF:-2,SPORTS |  Sky Sports Football
 http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9418?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  Sky Sports Action HD
+#EXTINF:-2,SPORTS |  Sky Sports Action
 http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9427?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  Sky Sports Cricket HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9420?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  Sky Sports Mix HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/163?checkedby:hlscat.com
-#EXTINF:-2,SPORTS |  BOX NATION HD
-http://winges-4k.com:25461/abeL@filipe1/3g2gwWEGsn/9455?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  Sky Sports Mix
+hhttp://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/873?checkedby:hlscat.com
+#EXTINF:-2,SPORTS |  BOX NATION
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/998.ts?checkedby:hlscat.com
 #EXTINF:-2,MOVIES |  SKY MOVIES ACTION
-http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/926.ts?checkedby:hlscat.com
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/998.ts?checkedby:hlscat.com
 #EXTINF:-1,MOVIES |  SKY MOVIES DISNEY
 http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/924.ts?checkedby:hlscat.com
 #EXTINF:-1,MOVIES |  SKY MOVIES FAMILY
-http://portal.unblkservice1.xyz:8080/hollie/hollie/45317?checkedby:hlscat.com#EXTINF:-1,UKL |  Eurosport 2 HD
+http://hd.skyhd-iptv.com:2095/iptvproffesional/EPkVJ4uf6Y/881?checkedby:hlscat.com
